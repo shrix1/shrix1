@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi! I'm Shriprasanna. You can call me Shri. How you doin'? :sunglasses:
+
+- :cowboy_hat_face: I do Web dev, play fps games, music.
+- 🚀 CS-Engineer - 2023. Anna University, Tamilnadu (India).
+- 📞Ping me on <a href="https://www.linkedin.com/in/shriprasanna-b-62aab1208/">LinkedIn</a> or at shriprasanna32@gmail.com
+
+### :metal: love to learn and explore 
+
 
 <!--
 **shrix1/shrix1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
