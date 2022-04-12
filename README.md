@@ -2,7 +2,7 @@
 
 - :cowboy_hat_face: I do Web dev, play fps games, music.
 - 🚀 CS-Engineer - 2023. Anna University, Tamilnadu (India).
-- 📞Ping me on <a href="https://www.linkedin.com/in/shriprasanna-b-62aab1208/">LinkedIn</a> or at <a href="shriprasanna32@gmail.com">shriprasanna32@gmail.com</a> .
+- 📞Ping me on <a href="https://www.linkedin.com/in/shriprasanna-b-62aab1208/" traget="_blank">LinkedIn</a> or at <a href="shriprasanna32@gmail.com">shriprasanna32@gmail.com</a> .
 
 ### :metal: love to learn and explore .
 
