@@ -1,9 +1,3 @@
-## Hi! I'm Shriprasanna. You can call me Shri. How you doin'? :sunglasses:
-
-
-- 📞Ping me on <a href="https://www.linkedin.com/in/shriprasanna-b-62aab1208/" traget="_blank">LinkedIn</a> or at <a  href="shriprasanna32@gmail.com">shriprasanna32@gmail.com</a>.
-
-### :metal: love to learn and explore.
 
 <h1 align="center">Hi 👋, I'm Shriprasanna</h1>
 <h3 align="center">A passionate developer based in India</h3>
