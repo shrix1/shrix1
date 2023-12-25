@@ -1,6 +1,6 @@
 
 <h1 align="center">Howdy👋, I'm Shriprasanna</h1>
-<h3 align="center">Software Enginner | Love to Build Cool Stuffs</h3>
+<h3 align="center">Software Enginner<a href="https://exemplary.ai/">@ExemplaryAI</a> | Love to Build Cool Stuffs</h3>
 
 <h3 align="center">Connect with me</h3>  
 <div align="center">
