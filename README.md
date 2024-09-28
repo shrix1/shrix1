@@ -11,10 +11,10 @@ I'm Shri and I'm a Software development engineer @exemplary.ai and a CS major. H
 - [LinkedIn](https://www.linkedin.com/feed/)
 
 ✨ Tech stack:
-- ReactJS, NextJS, TypeScript, Supabase, Firebase, Prisma, Drizzle, TailwindCSS, Python, and learning more...
+- ReactJS, NextJS, Javascript, Typescript, React Native, Expo, Python, Supabase, Firebase, PostgreSQL, Prisma, Drizzle, TailwindCSS and learning more...
 
 🌱 Interests:
-- Building products
+- Building apps & exploring AI
 - Gaming
 
 
