@@ -3,7 +3,7 @@ I'm Shri and I'm a Software development engineer @exemplary.ai and a CS major. H
 
 ⚡ Work experience:
 - **Software Development Engineer at exemplary.ai** build next generation ai content creation tools [Full-time, Hybrid, 07/2023 - present]
-- **Full Stack Intern at Brainseries** that I haven't made public about yet, one day:) [2023-2024] [Intern, Hybrid, 5/2023 - 7/2023] 
+- **Full Stack Intern at Brainseries** that I haven't made public about yet, one day:) [Intern, Hybrid, 5/2023 - 7/2023] 
 
 🤙🏽 Lets connect:
 - [Portfolio](https://shrix1.vercel.app/)
@@ -11,10 +11,11 @@ I'm Shri and I'm a Software development engineer @exemplary.ai and a CS major. H
 - [LinkedIn](https://www.linkedin.com/feed/)
 
 ✨ Tech stack:
-- ReactJS, NextJS, Javascript, Typescript, React Native, Expo, Python, Supabase, Firebase, PostgreSQL, Prisma, Drizzle, TailwindCSS and learning more...
+- ReactJS, NextJS, Javascript, Typescript, AWS, Azure, GCP, React Native, Expo, Python, Supabase, Firebase, PostgreSQL, Prisma, Drizzle, TailwindCSS, and learning more...
 
 🌱 Interests:
-- Building apps & exploring AI
+- Indie hacking
+- Build a little hardware projects
 - Gaming
 
 
