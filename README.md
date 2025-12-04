@@ -7,8 +7,8 @@ I'm Shri and I'm a Software development engineer @exemplary.ai and a CS major. H
 
 🤙🏽 Lets connect:
 - [Portfolio](https://shrix1.vercel.app/)
-- [Twitter aka X](https://x.com/shriprasanna007)
-- [LinkedIn](https://www.linkedin.com/feed/)
+- [Twitter aka X](https://x.com/shribuilds)
+- [LinkedIn](https://www.linkedin.com/in/shrix1/)
 
 ✨ Tech stack:
 - ReactJS, NextJS, Javascript, Typescript, AWS, Azure, GCP, React Native, Expo, Python, Supabase, Firebase, PostgreSQL, Prisma, Drizzle, TailwindCSS, and learning more...
